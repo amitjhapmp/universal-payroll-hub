@@ -1,0 +1,24 @@
+{
+  "name": "Universal Payroll Hub V6",
+  "short_name": "Payroll Hub",
+  "description": "Flexible payroll tracker supporting salary, hourly, taxes, benefits, deductions, split deposits, reports and PDF storage.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#5b2c6f",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
